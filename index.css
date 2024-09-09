@@ -1,0 +1,40 @@
+body{
+	text-align: center;
+}
+a{
+    font-size: 30px;
+    color:black;
+}
+.title{
+    font-size: 50px;
+}
+.links{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+}
+.link{
+    margin-left: 15px;  
+    margin-right: 15px;
+}
+.hike-photo{
+	width: 100vw;
+}
+
+.horz-photo{
+	width: 45vw;
+	margin: 10px;
+}
+.hobby-photos {
+	height: 30vh;
+}
+.list-books{
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.description{
+	text-align: justify;
+	margin: 10px auto;
+	width: 80vw;
+}
